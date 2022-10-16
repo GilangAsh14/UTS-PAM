@@ -44,6 +44,9 @@ Daftar package yang digunakan (expo) :
 
 untuk link gdrive : https://drive.google.com/drive/folders/1NOEQwW_WhgogsbeZy70vsyClTRuib7ef?usp=sharing
 
+Setelah aplikasi berhasil di download, maka install aplikasi kemudian jalankan, maka tampilan akan seperti gambar dibawah ini :
+
+
 Tampilan Aplikasi :
 
 <img src="https://github.com/GilangAsh14/UTS-PAM/blob/main/screenshoot/1.jpeg" width="30%" height="30%">
