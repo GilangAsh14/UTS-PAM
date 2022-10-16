@@ -44,6 +44,15 @@ Daftar package yang digunakan (expo) :
 
 untuk link gdrive : https://drive.google.com/file/d/1440Wa2wSRnweIwSfm1b9NeXKPnv78A6U/view?usp=sharing
 
+Tampilan Aplikasi :
+
+<img src="https://github.com/GilangAsh14/UTS-PAM/blob/main/screenshoot/1.jpeg" width="30%" height="30%">
+
+<img src="https://github.com/GilangAsh14/UTS-PAM/blob/main/screenshoot/2.jpeg" width="30%" height="30%">
+
+<img src="https://github.com/GilangAsh14/UTS-PAM/blob/main/screenshoot/3.jpeg" width="30%" height="30%">
+
+<img src="https://github.com/GilangAsh14/UTS-PAM/blob/main/screenshoot/4.jpeg" width="30%" height="30%">
 
  
  
