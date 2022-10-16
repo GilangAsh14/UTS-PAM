@@ -37,6 +37,7 @@ Daftar package yang digunakan (expo) :
 
  Untuk menjalankan di local server ```npm install```
  kemudian ```expo start```
+ 
  Untuk aplikasi dapat di download pada link :
  
  
