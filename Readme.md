@@ -1,5 +1,7 @@
 Nama : Gilang Ashari Abimanyu
+
 NIM : 119140040
+
 Kelas : PAM RB
 
 Aplikasi "Belajar Yuk" merupakan aplikasi yang menyediakan beberapa video materi yang telah di sediakan oleh aplikasi.
