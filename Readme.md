@@ -40,7 +40,11 @@ Daftar package yang digunakan (expo) :
  Untuk menjalankan di local server ```npm install```
  kemudian ```expo start```
  
- Untuk aplikasi dapat di download pada link :
+ Untuk aplikasi dapat di download pada link : https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40kaizen14/AplikasiUTS-9913d58cc323441fbe5dbbd7a412217f-signed.apk
+
+untuk link gdrive : https://drive.google.com/file/d/1440Wa2wSRnweIwSfm1b9NeXKPnv78A6U/view?usp=sharing
+
+
  
  
     
